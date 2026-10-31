@@ -160,8 +160,8 @@ P = "[PRECIO]"
 PACKS = {
     "paginas-web": [
         {"nombre": "Web Inicio", "precio": "524 €", "para": "Para empezar a estar en internet", "items": ["Web de una página con secciones", "Adaptada a móvil", "Formulario y WhatsApp", "Ficha de Google Business", "1 ronda de cambios"]},
-        {"nombre": "Web Negocio", "precio": "778 €", "para": "La más elegida por comercios", "popular": True, "items": ["Hasta 6 páginas", "Textos preparados para Google", "Galería o carta de servicios", "Dominio y correo profesional", "2 rondas de cambios", "Mantenimiento 3 meses"]},
-        {"nombre": "Web Completa", "precio": "1.002 €", "para": "Para negocios con más contenido", "items": ["Páginas ilimitadas razonables", "Blog para atraer clientes", "Reservas o citas online", "Asistente IA en la web", "3 rondas de cambios", "Mantenimiento 12 meses"]},
+        {"nombre": "Web Negocio", "precio": "778 €", "para": "La más elegida por comercios", "popular": True, "items": ["Hasta 2 páginas", "Textos preparados para Google", "Galería o carta de servicios", "Dominio y correo profesional", "2 rondas de cambios", "Mantenimiento 3 meses"]},
+        {"nombre": "Web Completa", "precio": "1.002 €", "para": "Para negocios con más contenido", "items": ["Hasta 3 páginas", "Blog para atraer clientes", "Reservas o citas online", "Asistente IA en la web", "3 rondas de cambios", "Mantenimiento 12 meses"]},
     ],
     "tiendas-online": [
         {"nombre": "Tienda Shopify", "precio": "644 €", "para": "Vender rápido con Shopify", "items": ["Tema adaptado a tu marca", "Hasta 30 productos cargados", "Pagos y envíos configurados", "Textos legales de compra", "Formación de uso"]},
