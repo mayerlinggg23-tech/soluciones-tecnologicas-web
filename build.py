@@ -214,7 +214,7 @@ PROYECTOS = [
 
 # Equipo: añade más personas copiando la línea (foto en assets/img, 720x900)
 EQUIPO = [
-    {"nombre": "Yolman García", "cargo": "Ingeniero programador", "foto": "equipo-yolman-garcia.jpg"},
+    {"nombre": "Yolman Nieves", "cargo": "Ingeniero programador", "foto": "equipo-yolman-nieves.jpg"},
     {"nombre": "Mayerling Gil", "cargo": "Diseñadora gráfica y artista plástica", "foto": "equipo-mayerling-gil.jpg"},
     {"nombre": "Jesús González Noguera", "cargo": "Servicio técnico", "foto": "equipo-jesus-gonzalez.jpg"},]
 
